@@ -32,7 +32,7 @@ The project includes:
 
 ### 🛠️ Tools Used
 
-- Python 3.x
+- Python 3.10
 - Jupyter Notebook
 - Libraries: `pandas`, `datetime`, `collections`, `gzip`, `matplotlib` (if visualization added)
 
