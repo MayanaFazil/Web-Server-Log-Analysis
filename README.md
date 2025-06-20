@@ -8,7 +8,7 @@ The goal is to process, clean, and analyze real-world Apache server logs using P
 
 ### 📚 Dataset Information
 
-- **Source**: confidential
+- **Source**: Confidential data(Available for assigmnent only from company)
 - **Format**: Apache Common Log Format (one HTTP request per line)
 - **Size**: ~52 MB uncompressed
 - **Fields**: Host, Timestamp, Filename, HTTP Status Code, Bytes Transferred
